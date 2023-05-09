@@ -10,6 +10,7 @@
 - Explain the benefits of using Jupyter Notebooks for R development
 
 <h2 align="center">Summary & Highlights</h2>
+
 - You can use the R programming language to perform statistical computation, data visualization, and predictive analysis. 
 - The four most common data types in R are integer, numeric, character, and logical. 
 - You can use the class() function and the is.integer(), is.numeric(), is.character(), and is.logical() functions to determine the data type. 
